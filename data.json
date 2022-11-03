@@ -1,9 +1,9 @@
 {
   "ADS": {
-    "native_type": "ironsource",
-   "inter_type": "ironsource",
+    "native_type": "facebook",
+   "inter_type": "facebook",
    
-   "banner_type": "ironsource",
+   "banner_type": "facebook",
  
  
 
@@ -19,9 +19,9 @@
    
 
    
-   "facebook_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-   "facebook_native": "ca-app-pub-4567",
-   "facebook_banner": "ca-app-pub-4567",
+   "facebook_interstitial": "VID_HD_9_16_39S_LINK#851309955889296_851311862555772",
+   "facebook_native": "VID_HD_9_16_39S_LINK#851309955889296_851312232555735",
+   "facebook_banner": "VID_HD_9_16_39S_LINK#851309955889296_851311509222474",
  
   
 
