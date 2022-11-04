@@ -1,9 +1,9 @@
 {
   "ADS": {
-    "native_type": "facebook",
-   "inter_type": "facebook",
+    "native_type": "admob",
+   "inter_type": "admob",
    
-   "banner_type": "facebook",
+   "banner_type": "admob",
  
  
 
