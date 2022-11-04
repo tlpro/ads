@@ -1,9 +1,9 @@
 {
   "ADS": {
-    "native_type": "ironsource",
-   "inter_type": "ironsource",
+    "native_type": "admob",
+   "inter_type": "admob",
    
-   "banner_type": "ironsource",
+   "banner_type": "admob",
  
  
 
